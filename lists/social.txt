@@ -1,0 +1,29 @@
+# Marcussen category list
+# One site per line. Optional: domain example.com  OR  host chat.example.com
+# Lines starting with # are ignored.
+
+domain bereal.com
+domain clubhouse.com
+domain discord.com
+domain facebook.com
+domain instagram.com
+domain kakao.com
+domain line.me
+domain linkedin.com
+domain mastodon.social
+domain nextdoor.com
+domain pinterest.com
+domain reddit.com
+domain snapchat.com
+domain t.me
+domain telegram.org
+domain threads.net
+domain tiktok.com
+domain truthsocial.com
+domain tumblr.com
+domain twitter.com
+domain vk.com
+domain wechat.com
+domain weibo.com
+domain whatsapp.com
+domain x.com

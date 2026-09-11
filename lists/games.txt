@@ -1,0 +1,46 @@
+# Marcussen category list
+# One site per line. Optional: domain example.com  OR  host chat.example.com
+# Lines starting with # are ignored.
+
+domain 1v1.lol
+domain addictinggames.com
+domain armor.ag
+domain blizzard.com
+domain bloxd.io
+domain bloxdunblocked.com
+domain chess.com
+domain classroom6x.com
+domain coolmathgames.com
+domain crazygames.com
+domain duckmath.org
+domain ea.com
+domain eaglecraft.club
+domain epicgames.com
+domain fortnite.com
+domain geoguessr.com
+domain geometrydash.com
+domain geometrylitepc.net
+domain hoodamath.com
+domain iogamesunblocked.com
+domain itch.io
+domain kongregate.com
+domain leagueoflegends.com
+domain lichess.org
+domain minecraft.net
+domain miniclip.com
+domain newgrounds.com
+domain nintendo.com
+domain nitrotype.com
+domain playstation.com
+domain poki.com
+domain poki.com
+domain riotgames.com
+domain roblox.com
+domain steampowered.com
+domain twitch.tv
+domain ubisoft.com
+domain unblockedbloxd.com
+domain unblockedgames333.com
+domain unbloxd.com
+domain unbloxd.site
+domain xbox.com

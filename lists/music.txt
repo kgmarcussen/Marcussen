@@ -1,0 +1,23 @@
+# Marcussen category list
+# One site per line. Optional: domain example.com  OR  host chat.example.com
+# Lines starting with # are ignored.
+
+domain audiomack.com
+domain bandcamp.com
+domain deezer.com
+domain iheart.com
+domain livexlive.com
+domain mixcloud.com
+domain pandora.com
+domain siriusxm.com
+domain sndcdn.com
+domain soundcloud.com
+domain spotify.com
+domain suno.com
+domain tidal.com
+domain tidalhifi.com
+domain tunein.com
+domain udio.com
+host music.amazon.com
+host music.apple.com
+host music.youtube.com

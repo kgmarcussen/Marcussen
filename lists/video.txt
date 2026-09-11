@@ -1,0 +1,29 @@
+# Marcussen category list
+# One site per line. Optional: domain example.com  OR  host chat.example.com
+# Lines starting with # are ignored.
+
+domain crunchyroll.com
+domain dailymotion.com
+domain disneyplus.com
+domain funimation.com
+domain hbomax.com
+domain hulu.com
+domain kick.com
+domain max.com
+domain netflix.com
+domain odysee.com
+domain paramountplus.com
+domain peacocktv.com
+domain plex.tv
+domain pluto.tv
+domain primevideo.com
+domain roku.com
+domain rumble.com
+domain tiktok.com
+domain tubitv.com
+domain twitch.tv
+domain vimeo.com
+domain youtu.be
+domain youtube.com
+domain youtubekids.com
+host music.youtube.com
